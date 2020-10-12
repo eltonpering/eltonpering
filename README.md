@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p>
 Entusiasta C# .Net Web Developer
 <p>
-Estou sempre melhorando e aprendendo coisas novas
+Aprendizado e melhoria contínua
 
 - :office_worker: Full Stack .Net Core Software Engineer na **AdSomos Softwares**
 - :blue_heart: Techs: Vue.js, Node.js, TypeScript, Docker, entre outras.
