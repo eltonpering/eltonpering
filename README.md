@@ -24,7 +24,7 @@ Entusiasta C# .Net Web Developer
 <p>
 Estou sempre melhorando e aprendendo coisas novas
 
-- :office_worker: Full Stack .Net Core Software Engineer na **Ênfase Labs**
+- :office_worker: Full Stack .Net Core Software Engineer na **AdSomos Softwares**
 - :blue_heart: Techs: Vue.js, Node.js, TypeScript, Docker, entre outras.
 - :books: Estudando Flutter. :hand:
 
