@@ -27,13 +27,15 @@ Estou sempre melhorando e aprendendo coisas novas
 - :office_worker: Full Stack .Net Core Software Engineer na **AdSomos Softwares**
 - :blue_heart: Techs: Vue.js, Node.js, TypeScript, Docker, entre outras.
 - :books: Estudando Flutter. :hand:
+- SOLID PRINCIPLES
+- DDD
+- TDD
+
 
 
 ---
 
-<details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
-  <br>
+
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&count_private=true&theme=radical&hide=issues" />
@@ -53,5 +55,5 @@ Estou sempre melhorando e aprendendo coisas novas
   ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
   ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-</details>
+
 
