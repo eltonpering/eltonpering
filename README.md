@@ -38,7 +38,7 @@ Aprendizado e melhoria contínua
 
   
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonpering&show_icons=true&count_private=true&theme=radical&hide=issues" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonpering&show_icons=true&count_private=false&theme=radical&hide=issues" />
 
 ## Algumas Tecnologias
 
