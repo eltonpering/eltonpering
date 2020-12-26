@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
 <p>
-Entusiasta C# .Net Web Developer
+Entusiasta C# .Net Core Web Developer
 <p>
 Aprendizado e melhoria contínua
 
