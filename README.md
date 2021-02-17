@@ -25,7 +25,7 @@ Enthusiastic C# .Net Core Web Developer
 Learning and continuous improvement
 
 - :office_worker: Full Stack .Net Core Software Engineer na **AdSomos Softwares**
-- :blue_heart: Techs: React.js, Vue.js, Node.js, TypeScript, Docker, entre outras.
+- :blue_heart: Techs: React.js, Vue.js, Node.js, TypeScript, Docker.
 - :books: Estudando React. :hand:
 - SOLID PRINCIPLES
 - DDD
