@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eltonpering/)](https://www.linkedin.com/in/eltonpering/)
 
 
-## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
+## Hi There! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
 <p>
-Entusiasta C# .Net Core Web Developer
+Enthusiastic C# .Net Core Web Developer
 <p>
-Aprendizado e melhoria contínua
+Learning and continuous improvement
 
 - :office_worker: Full Stack .Net Core Software Engineer na **AdSomos Softwares**
 - :blue_heart: Techs: React.js, Vue.js, Node.js, TypeScript, Docker, entre outras.
